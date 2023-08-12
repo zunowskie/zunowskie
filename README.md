@@ -3,4 +3,4 @@
 <h3 align="center">Занимаюсь разработкой Java приложений, так же изучаю веб разработку. Я проживаю в России 🇷🇺</h3>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zunowskie&show_icons=true&theme=radical)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zunowskie&show_icons=true&theme=radical)
